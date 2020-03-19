@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace OSLab2
 {
@@ -25,7 +21,7 @@ namespace OSLab2
     }
     public static int About()
     {
-      Console.WriteLine("Задание: Проанализировать состояние данной фаловой системы и предложить варианты ее оптимизации \nВыполнил студент группы 484, Левинский Илья");
+      Console.WriteLine("Задание: Проанализировать состояние данной файловой системы и предложить варианты ее оптимизации \nВыполнил студент группы 484, Левинский Илья");
       return (0);
     }
 

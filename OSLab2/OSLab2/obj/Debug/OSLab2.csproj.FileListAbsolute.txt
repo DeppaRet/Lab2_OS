@@ -5,3 +5,10 @@ C:\Users\USER\Desktop\Lab2_OS\OSLab2\OSLab2\obj\Debug\OSLab2.csprojAssemblyRefer
 C:\Users\USER\Desktop\Lab2_OS\OSLab2\OSLab2\obj\Debug\OSLab2.csproj.CoreCompileInputs.cache
 C:\Users\USER\Desktop\Lab2_OS\OSLab2\OSLab2\obj\Debug\OSLab2.exe
 C:\Users\USER\Desktop\Lab2_OS\OSLab2\OSLab2\obj\Debug\OSLab2.pdb
+C:\Users\USER\Desktop\Lab2_OS\Lab2_OS\OSLab2\OSLab2\bin\Debug\OSLab2.exe.config
+C:\Users\USER\Desktop\Lab2_OS\Lab2_OS\OSLab2\OSLab2\bin\Debug\OSLab2.exe
+C:\Users\USER\Desktop\Lab2_OS\Lab2_OS\OSLab2\OSLab2\bin\Debug\OSLab2.pdb
+C:\Users\USER\Desktop\Lab2_OS\Lab2_OS\OSLab2\OSLab2\obj\Debug\OSLab2.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Lab2_OS\Lab2_OS\OSLab2\OSLab2\obj\Debug\OSLab2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Lab2_OS\Lab2_OS\OSLab2\OSLab2\obj\Debug\OSLab2.exe
+C:\Users\USER\Desktop\Lab2_OS\Lab2_OS\OSLab2\OSLab2\obj\Debug\OSLab2.pdb

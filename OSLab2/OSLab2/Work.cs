@@ -122,11 +122,19 @@ namespace OSLab2
           Console.WriteLine("F: " + E[j + 2]);
           Console.WriteLine("G: " + E[j + 3]);
           break;
-        }// идея разбить там где еоф, но если только еоф в подстроке то скип
+        }
       }
-
-
       IsEqual(A, B, C, D, addreses);
+      for (int j = 0; j < 5; j++)
+      {
+        if (E[j] != "eof")
+        {
+          Console.WriteLine("E: " + E[j]);
+          Console.WriteLine("F: " + E[j + 2]);
+          Console.WriteLine("G: " + E[j + 3]);
+          break;
+        }
+      }
     }
 
     public static string IsEqual(string A, string B, string C, string D, string[] addreses)
